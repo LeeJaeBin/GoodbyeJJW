@@ -1,0 +1,42 @@
+p.donate-title{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 3%;
+}
+div.seepic-description-div{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+p.description{
+    font-size: 35px;
+    text-align: center;
+}
+div.donate-div{
+    height: 600px;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 5%;
+    overflow-x: scroll;
+    white-space:nowrap;
+}
+div.imgdiv{
+    width: 90%;;
+    height : 90%;
+    margin-left : auto;
+    margin-right : auto;
+    display : block;
+    border : 1px solid black;
+    border-radius : 5px;
+}
+/*img.images{
+    height : 90%;
+    margin-left : auto;
+    margin-right : auto;
+    display : block;
+    border : 1px solid black;
+    border-radius : 5px;
+}*/
